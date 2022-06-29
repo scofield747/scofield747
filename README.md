@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marvin.
-- 👀 I’m interested in mathematics, statistics, problem-solving, and data science.
-- 🌱 I’m currently learning Python and Data Science
-- 💞️ I’m looking to collaborate on design and engineering problems and solve using the data science approach.
+- 👀 I’m interested in mathematics, statistics, and data science.
+- 🌱 I’m currently learning Python and Data Science.
+- 💞️ I plan to integrate Data Science with Engineering.
 - 📫 You can reach me at my email, marvin.patricio.jr@gmail.com
 
 <!---
